@@ -34,7 +34,7 @@ const Hero = () => {
     <div className="flex flex-col mt-[15dvh] ">
        <a href="https://www.semper.blue/" target="_blank" rel="noopener noreferrer">
     <h1 className="relative text-5xl text-cyan-500 md:text-5xl text-center tracking-tight font-semibold">
-      Semper.blue
+      semper.blue
     </h1>
   </a>
 
