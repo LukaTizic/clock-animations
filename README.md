@@ -5,3 +5,24 @@
   </a>
   <hr style="width: 50%; border: 1px solid #ddd; margin: 40px auto; opacity: 0.5;">
 </div>
+
+## 🧩 **How to Run Locally**
+
+1. Clone the repository:
+
+   ```bash
+   
+   git clone https://github.com/LukaTizic/clock-animations.git
+    ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+    ```
+5. Start the development server:
+
+   ```bash
+   npm run dev
+    ```
+
+<hr>
